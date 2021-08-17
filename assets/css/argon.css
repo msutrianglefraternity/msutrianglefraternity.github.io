@@ -12284,7 +12284,7 @@ button.section-darker:focus {
 }
 
 .fill-spartan {
-    fill: #18453B;
+    fill: #8a1538;
 }
 
 .stroke-primary {
@@ -14795,7 +14795,7 @@ textarea[resize='horizontal'] {
 
     transition: all .15s ease;
 
-    color: #18453B;
+    color: #8a1538;
     background-color: #fff;
     box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
 }
@@ -14807,7 +14807,7 @@ textarea[resize='horizontal'] {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
     color: #fff;
-    background-color: #18453B;
+    background-color: #8a1538;
 }
 
 @media (max-width: 575.98px) {
@@ -14891,7 +14891,7 @@ textarea[resize='horizontal'] {
 }
 
 .navbar-light .navbar-brand {
-    color: #18453B;
+    color: #8a1538;
 }
 
 .navbar-nav .nav-item .media:not(:last-child) {
@@ -16092,7 +16092,7 @@ textarea[resize='horizontal'] {
 }
 
 .section-shaped .shape-style-1.shape-default {
-    background: linear-gradient(150deg, #368e7a 20%, #256657 49%, #18453b 90%);
+    background: linear-gradient(150deg, #8a1538 20%, #9b4c66 49%, #999999 90%);
 }
 
 .section-shaped .shape-style-1.shape-light {
@@ -16832,7 +16832,7 @@ article h5 + figure {
     padding-top: .5rem;
     padding-bottom: .5rem;
 
-    background-color: #18453B !important;
+    background-color: #8a1538 !important;
     box-shadow: 0 1px 10px rgba(130, 130, 134, .1);
 }
 
