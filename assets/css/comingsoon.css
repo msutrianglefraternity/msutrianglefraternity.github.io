@@ -3,6 +3,29 @@ body, html {
   height: 100%
 }
 
+h1, h2 {
+  line-height: .9em;
+}
+
+p {
+  color: #32325d;
+  line-height: 1.2em;
+}
+
+li {
+  font-size: .8em;
+  color: #32325d;
+  text-align: left;
+}
+
+ul {
+  text-indent: .3em;
+}
+
+.middle p {
+  margin-top: 0em;
+}
+
 .bgimg {
   /* Background image */
   background-image: url('/w3images/forestbridge.jpg');
@@ -31,8 +54,9 @@ body, html {
 
 /* Position text in the bottom-left corner */
 .bottomleft {
+  margin-top: 2em;
   position: absolute;
-  bottom: 0;
+  bottom: -.2em;
   left: 16px;
 }
 
@@ -53,4 +77,8 @@ hr {
 
 img {
   margin-top: .5em;
+}
+
+a {
+  color: #32325d;
 }
