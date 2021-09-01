@@ -7,6 +7,10 @@ h1, h2 {
   line-height: .9em;
 }
 
+h2 {
+  margin-top: -.5em;
+}
+
 p {
   color: #32325d;
   line-height: 1.2em;
